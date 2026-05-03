@@ -4,16 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-
-public class A {
-    public static void main(String[] args) throws Exception {
-        // Write here
-    }
-
-}
-
-
-class FastIO {
+public class FastIO {
     public static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     public static PrintWriter pw = new PrintWriter(System.out);
     public static StringTokenizer st = null;
